@@ -1,6 +1,5 @@
 import tkinter as tk
 from tkinter import ttk
-from query_db import IdentifyTables
 from app_panes import Menu as ap_Menu, Body as ap_Body
 from PIL import Image, ImageTk
 
